@@ -4,7 +4,7 @@ document.getElementById('cadastroForm').addEventListener('submit', function(even
     var cpf = document.getElementById('cpf').value;
 
     if (nomeCompleto === 'Rodrigo Sena' && cpf === '6622287615') {
-        window.location.href = 'https://www.google.com';
+        window.location.href = 'https://images.app.goo.gl/JDcKYAyDuRoTwAcT9';
     } else {
         alert('Nome completo ou CPF incorretos.');
     }
